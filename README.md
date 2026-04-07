@@ -1,4 +1,4 @@
-# amazon-advertising-strategy
+<img width="1123" height="443" alt="image" src="https://github.com/user-attachments/assets/2def8ebd-fd21-4af5-91a3-12c5eb8bfa6b" /># amazon-advertising-strategy
 
 一个面向 Amazon 卖家的广告策略 skill，用来快速生成可执行的投放方案。
 
@@ -22,13 +22,17 @@
 - 新品刚上线，需要前 30 天启动方案
 - SKU 较多，需要重新拆 Campaign 和预算
 - 团队需要一套统一的广告策略输出模板
+<img width="1123" height="443" alt="image" src="https://github.com/user-attachments/assets/b856257f-de2f-49ae-997e-61c35b01f6e3" />
+<img width="883" height="1175" alt="image" src="https://github.com/user-attachments/assets/2f8e75d5-7bc4-4ded-b758-6a9df55ee696" />
+<img width="861" height="782" alt="image" src="https://github.com/user-attachments/assets/f55adef0-7806-4bbd-bbf0-192b9cc07ecb" />
+<img width="823" height="855" alt="image" src="https://github.com/user-attachments/assets/8e2e4f0a-605d-47d4-bab6-d0674feaf8dd" />
 
 ## 安装
 
 先确认本机已安装 Claude Code，并支持 skills。
 
 ```bash
-npx skills add nexscope-ai/eCommerce-Skills --skill amazon-advertising-strategy -g
+npx skills add  amazon-advertising-strategy -g
 ```
 
 安装完成后，如果你已经能在 Claude Code 中调用 `amazon-advertising-strategy`，就说明安装成功。
@@ -216,3 +220,8 @@ B07D34L57F
 - 用户口述不一定等于真实产品，优先看真实 ASIN 数据
 - 新品和成熟款的广告逻辑不同，输出会按真实阶段切换
 - 数据越真实，结果越接近可直接执行的投放方案
+
+- 如果需要了解，共创，学习相关亚马逊运营Skill，请添加我们公众号和相关联系方式，进行分享相关亚马逊相关运营Skill源文件
+![9f453825a605ac5a92149be126636dc4](https://github.com/user-attachments/assets/9680fd49-0f0f-4642-8601-462ca28f1c77)
+![8acbe748b4a2e09b088c6e2b5cdfa85e](https://github.com/user-attachments/assets/86f00f61-cac6-4da1-9b4d-e78f75aecbc8)
+---<img width="844" height="376" alt="image" src="https://github.com/user-attachments/assets/0c809a29-8dad-4fd0-b5ce-d439e250a60a" />
